@@ -23,7 +23,7 @@
 	"gui.settings.position.overlay": "In-ship overlay location",
 	"gui.settings.position.up_left": "Upper starboard",
 	"gui.settings.position.up_right": "Upper port",
-	"gui.settings.toggle.ingame_overlay": "Toggle ingame overlay",
+	"gui.settings.toggle.ingame_overlay": "Toggle in-ship overlay",
 	"gui.settings.toggle.key_in_gui": "Toggle helm buttons in gooi",
 	"gui.settings.toggle.menue_overlay": "Toggle menue overlay",
 	"gui.track.duration_undefined": "Only th' captain knows...",
